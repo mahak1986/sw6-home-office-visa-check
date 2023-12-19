@@ -1,0 +1,77 @@
+2023-12-16 23:12:257 INFO  ManageBrowser :32 - Chrome Browser Launch .....
+2023-12-16 23:12:890 INFO  ManageBrowser :32 - Chrome Browser Launch .....
+2023-12-16 23:12:191 INFO  ManageBrowser :32 - Chrome Browser Launch .....
+2023-12-16 23:12:216 INFO  ManageBrowser :32 - Chrome Browser Launch .....
+2023-12-17 00:12:200 INFO  ManageBrowser :32 - Chrome Browser Launch .....
+2023-12-17 00:12:233 INFO  ManageBrowser :32 - Chrome Browser Launch .....
+2023-12-17 00:12:316 INFO  ManageBrowser :32 - Chrome Browser Launch .....
+2023-12-17 00:12:887 INFO  ManageBrowser :32 - Chrome Browser Launch .....
+2023-12-17 00:12:861 INFO  StartPage :21 - Clicking on start button : [[ChromeDriver: chrome on windows (a033384fcc81d3166fe5bdd480847554)] -> xpath: //a[@class='gem-c-button govuk-button govuk-button--start']]
+2023-12-17 00:12:56 INFO  ManageBrowser :32 - Chrome Browser Launch .....
+2023-12-17 00:12:855 INFO  StartPage :21 - Clicking on start button : [[ChromeDriver: chrome on windows (9d650a6a61b1ec3db493d9f8a0906f26)] -> xpath: //a[@class='gem-c-button govuk-button govuk-button--start']]
+2023-12-17 00:12:999 INFO  SelectNationalityPage :31 - Select Nationality : [[ChromeDriver: chrome on windows (9d650a6a61b1ec3db493d9f8a0906f26)] -> xpath: //select[@id='response']]
+2023-12-17 00:12:551 INFO  SelectNationalityPage :40 - Clicking on continue button : [[ChromeDriver: chrome on windows (9d650a6a61b1ec3db493d9f8a0906f26)] -> xpath: //button[normalize-space()='Continue']]
+2023-12-17 00:12:697 INFO  ReasonForTravelPage :26 - Clicking on radio button : [[ChromeDriver: chrome on windows (9d650a6a61b1ec3db493d9f8a0906f26)] -> xpath: //input[@id='response-0']]
+2023-12-17 00:12:254 INFO  SelectNationalityPage :40 - Clicking on continue button : [[ChromeDriver: chrome on windows (9d650a6a61b1ec3db493d9f8a0906f26)] -> xpath: //button[normalize-space()='Continue']]
+2023-12-17 00:12:617 INFO  ResultPage :22 - Clicking on radio button : [[ChromeDriver: chrome on windows (9d650a6a61b1ec3db493d9f8a0906f26)] -> xpath: //h2[normalize-space()='You will not need a visa to come to the UK']]
+2023-12-17 00:12:357 INFO  ManageBrowser :32 - Chrome Browser Launch .....
+2023-12-17 00:12:993 INFO  StartPage :21 - Clicking on start button : [[ChromeDriver: chrome on windows (4c85326660713e44104f44e80932ec6d)] -> xpath: //a[@class='gem-c-button govuk-button govuk-button--start']]
+2023-12-17 00:12:107 INFO  SelectNationalityPage :31 - Select Nationality : [[ChromeDriver: chrome on windows (4c85326660713e44104f44e80932ec6d)] -> xpath: //select[@id='response']]
+2023-12-17 00:12:315 INFO  SelectNationalityPage :40 - Clicking on continue button : [[ChromeDriver: chrome on windows (4c85326660713e44104f44e80932ec6d)] -> xpath: //button[normalize-space()='Continue']]
+2023-12-17 00:12:475 INFO  ReasonForTravelPage :36 - Clicking on radio button : [[ChromeDriver: chrome on windows (4c85326660713e44104f44e80932ec6d)] -> id: response-1]
+2023-12-17 00:12:654 INFO  SelectNationalityPage :40 - Clicking on continue button : [[ChromeDriver: chrome on windows (4c85326660713e44104f44e80932ec6d)] -> xpath: //button[normalize-space()='Continue']]
+2023-12-17 00:12:767 INFO  DurationOfStayPage :20 - Clicking on radio button : [[ChromeDriver: chrome on windows (4c85326660713e44104f44e80932ec6d)] -> id: response-1]
+2023-12-17 00:12:985 INFO  SelectNationalityPage :40 - Clicking on continue button : [[ChromeDriver: chrome on windows (4c85326660713e44104f44e80932ec6d)] -> xpath: //button[normalize-space()='Continue']]
+2023-12-17 00:12:40 INFO  WorkTypePage :25 - Clicking on radio button : [[ChromeDriver: chrome on windows (4c85326660713e44104f44e80932ec6d)] -> id: response-0]
+2023-12-17 00:12:244 INFO  SelectNationalityPage :40 - Clicking on continue button : [[ChromeDriver: chrome on windows (4c85326660713e44104f44e80932ec6d)] -> xpath: //button[normalize-space()='Continue']]
+2023-12-17 00:12:351 INFO  ResultPage :33 - Clicking on radio button : [[ChromeDriver: chrome on windows (4c85326660713e44104f44e80932ec6d)] -> xpath: //h2[normalize-space()='You need a visa to work in health and care']]
+2023-12-17 00:12:184 INFO  ManageBrowser :32 - Chrome Browser Launch .....
+2023-12-17 00:12:53 INFO  StartPage :21 - Clicking on start button : [[ChromeDriver: chrome on windows (6735d8c184f1d9c3164fe6cf3570bf8e)] -> xpath: //a[@class='gem-c-button govuk-button govuk-button--start']]
+2023-12-17 00:12:185 INFO  SelectNationalityPage :31 - Select Nationality : [[ChromeDriver: chrome on windows (6735d8c184f1d9c3164fe6cf3570bf8e)] -> xpath: //select[@id='response']]
+2023-12-17 00:12:433 INFO  SelectNationalityPage :40 - Clicking on continue button : [[ChromeDriver: chrome on windows (6735d8c184f1d9c3164fe6cf3570bf8e)] -> xpath: //button[normalize-space()='Continue']]
+2023-12-17 00:12:496 INFO  ReasonForTravelPage :46 - Clicking on radio button : [[ChromeDriver: chrome on windows (6735d8c184f1d9c3164fe6cf3570bf8e)] -> id: response-4]
+2023-12-17 00:12:724 INFO  SelectNationalityPage :40 - Clicking on continue button : [[ChromeDriver: chrome on windows (6735d8c184f1d9c3164fe6cf3570bf8e)] -> xpath: //button[normalize-space()='Continue']]
+2023-12-17 00:12:756 INFO  FamilyImmigrationStatusPage :23 - Getting text from : [[ChromeDriver: chrome on windows (6735d8c184f1d9c3164fe6cf3570bf8e)] -> xpath: //h2[normalize-space()='You may need a visa']]
+2023-12-18 21:12:584 INFO  ManageBrowser :32 - Chrome Browser Launch .....
+2023-12-18 21:12:222 INFO  StartPage :21 - Clicking on start button : [[ChromeDriver: chrome on windows (496450bcd32722ef3d88f1ef67b4f30f)] -> xpath: //a[@class='gem-c-button govuk-button govuk-button--start']]
+2023-12-18 21:12:390 INFO  SelectNationalityPage :31 - Select Nationality : [[ChromeDriver: chrome on windows (496450bcd32722ef3d88f1ef67b4f30f)] -> xpath: //select[@id='response']]
+2023-12-18 21:12:635 INFO  SelectNationalityPage :40 - Clicking on continue button : [[ChromeDriver: chrome on windows (496450bcd32722ef3d88f1ef67b4f30f)] -> xpath: //button[normalize-space()='Continue']]
+2023-12-18 21:12:829 INFO  ReasonForTravelPage :26 - Clicking on radio button : [[ChromeDriver: chrome on windows (496450bcd32722ef3d88f1ef67b4f30f)] -> xpath: //input[@id='response-0']]
+2023-12-18 21:12:164 INFO  SelectNationalityPage :40 - Clicking on continue button : [[ChromeDriver: chrome on windows (496450bcd32722ef3d88f1ef67b4f30f)] -> xpath: //button[normalize-space()='Continue']]
+2023-12-18 21:12:225 INFO  ResultPage :22 - Clicking on radio button : [[ChromeDriver: chrome on windows (496450bcd32722ef3d88f1ef67b4f30f)] -> xpath: //h2[normalize-space()='You will not need a visa to come to the UK']]
+2023-12-18 21:12:327 INFO  ManageBrowser :32 - Chrome Browser Launch .....
+2023-12-18 21:12:940 INFO  StartPage :21 - Clicking on start button : [[ChromeDriver: chrome on windows (29465485976d7aa766f6ebdbc783f588)] -> xpath: //a[@class='gem-c-button govuk-button govuk-button--start']]
+2023-12-18 21:12:177 INFO  SelectNationalityPage :31 - Select Nationality : [[ChromeDriver: chrome on windows (29465485976d7aa766f6ebdbc783f588)] -> xpath: //select[@id='response']]
+2023-12-18 21:12:469 INFO  SelectNationalityPage :40 - Clicking on continue button : [[ChromeDriver: chrome on windows (29465485976d7aa766f6ebdbc783f588)] -> xpath: //button[normalize-space()='Continue']]
+2023-12-18 21:12:725 INFO  ReasonForTravelPage :36 - Clicking on radio button : [[ChromeDriver: chrome on windows (29465485976d7aa766f6ebdbc783f588)] -> id: response-1]
+2023-12-18 21:12:47 INFO  SelectNationalityPage :40 - Clicking on continue button : [[ChromeDriver: chrome on windows (29465485976d7aa766f6ebdbc783f588)] -> xpath: //button[normalize-space()='Continue']]
+2023-12-18 21:12:167 INFO  DurationOfStayPage :20 - Clicking on radio button : [[ChromeDriver: chrome on windows (29465485976d7aa766f6ebdbc783f588)] -> id: response-1]
+2023-12-18 21:12:522 INFO  SelectNationalityPage :40 - Clicking on continue button : [[ChromeDriver: chrome on windows (29465485976d7aa766f6ebdbc783f588)] -> xpath: //button[normalize-space()='Continue']]
+2023-12-18 21:12:682 INFO  WorkTypePage :25 - Clicking on radio button : [[ChromeDriver: chrome on windows (29465485976d7aa766f6ebdbc783f588)] -> id: response-0]
+2023-12-18 21:12:01 INFO  SelectNationalityPage :40 - Clicking on continue button : [[ChromeDriver: chrome on windows (29465485976d7aa766f6ebdbc783f588)] -> xpath: //button[normalize-space()='Continue']]
+2023-12-18 21:12:164 INFO  ResultPage :33 - Clicking on radio button : [[ChromeDriver: chrome on windows (29465485976d7aa766f6ebdbc783f588)] -> xpath: //h2[normalize-space()='You need a visa to work in health and care']]
+2023-12-18 21:12:714 INFO  ManageBrowser :32 - Chrome Browser Launch .....
+2023-12-18 21:12:976 INFO  StartPage :21 - Clicking on start button : [[ChromeDriver: chrome on windows (616645b24b8ab5c4ac78257bc071331c)] -> xpath: //a[@class='gem-c-button govuk-button govuk-button--start']]
+2023-12-18 21:12:156 INFO  SelectNationalityPage :31 - Select Nationality : [[ChromeDriver: chrome on windows (616645b24b8ab5c4ac78257bc071331c)] -> xpath: //select[@id='response']]
+2023-12-18 21:12:496 INFO  SelectNationalityPage :40 - Clicking on continue button : [[ChromeDriver: chrome on windows (616645b24b8ab5c4ac78257bc071331c)] -> xpath: //button[normalize-space()='Continue']]
+2023-12-18 21:12:692 INFO  ReasonForTravelPage :46 - Clicking on radio button : [[ChromeDriver: chrome on windows (616645b24b8ab5c4ac78257bc071331c)] -> id: response-4]
+2023-12-18 21:12:36 INFO  SelectNationalityPage :40 - Clicking on continue button : [[ChromeDriver: chrome on windows (616645b24b8ab5c4ac78257bc071331c)] -> xpath: //button[normalize-space()='Continue']]
+2023-12-18 21:12:68 INFO  FamilyImmigrationStatusPage :23 - Getting text from : [[ChromeDriver: chrome on windows (616645b24b8ab5c4ac78257bc071331c)] -> xpath: //h2[normalize-space()='You may need a visa']]
+2023-12-18 21:12:903 INFO  ManageBrowser :32 - Chrome Browser Launch .....
+2023-12-18 21:12:329 INFO  StartPage :21 - Clicking on start button : [[ChromeDriver: chrome on windows (6ac540792c6176b789f1b22a7a75de90)] -> xpath: //a[@class='gem-c-button govuk-button govuk-button--start']]
+2023-12-18 21:12:508 INFO  SelectNationalityPage :31 - Select Nationality : [[ChromeDriver: chrome on windows (6ac540792c6176b789f1b22a7a75de90)] -> xpath: //select[@id='response']]
+2023-12-18 21:12:728 INFO  SelectNationalityPage :40 - Clicking on continue button : [[ChromeDriver: chrome on windows (6ac540792c6176b789f1b22a7a75de90)] -> xpath: //button[normalize-space()='Continue']]
+2023-12-18 21:12:951 INFO  ReasonForTravelPage :26 - Clicking on radio button : [[ChromeDriver: chrome on windows (6ac540792c6176b789f1b22a7a75de90)] -> xpath: //input[@id='response-0']]
+2023-12-18 21:12:198 INFO  SelectNationalityPage :40 - Clicking on continue button : [[ChromeDriver: chrome on windows (6ac540792c6176b789f1b22a7a75de90)] -> xpath: //button[normalize-space()='Continue']]
+2023-12-18 21:12:324 INFO  ResultPage :22 - Clicking on radio button : [[ChromeDriver: chrome on windows (6ac540792c6176b789f1b22a7a75de90)] -> xpath: //h2[normalize-space()='You will not need a visa to come to the UK']]
+2023-12-18 21:12:432 INFO  ManageBrowser :32 - Chrome Browser Launch .....
+2023-12-18 21:12:907 INFO  StartPage :21 - Clicking on start button : [[ChromeDriver: chrome on windows (63460e9fb10d59ce322cc198c037c514)] -> xpath: //a[@class='gem-c-button govuk-button govuk-button--start']]
+2023-12-18 21:12:65 INFO  SelectNationalityPage :31 - Select Nationality : [[ChromeDriver: chrome on windows (63460e9fb10d59ce322cc198c037c514)] -> xpath: //select[@id='response']]
+2023-12-18 21:12:297 INFO  SelectNationalityPage :40 - Clicking on continue button : [[ChromeDriver: chrome on windows (63460e9fb10d59ce322cc198c037c514)] -> xpath: //button[normalize-space()='Continue']]
+2023-12-18 21:12:447 INFO  ReasonForTravelPage :36 - Clicking on radio button : [[ChromeDriver: chrome on windows (63460e9fb10d59ce322cc198c037c514)] -> id: response-1]
+2023-12-18 21:12:706 INFO  SelectNationalityPage :40 - Clicking on continue button : [[ChromeDriver: chrome on windows (63460e9fb10d59ce322cc198c037c514)] -> xpath: //button[normalize-space()='Continue']]
+2023-12-18 21:12:802 INFO  DurationOfStayPage :20 - Clicking on radio button : [[ChromeDriver: chrome on windows (63460e9fb10d59ce322cc198c037c514)] -> id: response-1]
+2023-12-18 21:12:51 INFO  SelectNationalityPage :40 - Clicking on continue button : [[ChromeDriver: chrome on windows (63460e9fb10d59ce322cc198c037c514)] -> xpath: //button[normalize-space()='Continue']]
+2023-12-18 21:12:141 INFO  WorkTypePage :25 - Clicking on radio button : [[ChromeDriver: chrome on windows (63460e9fb10d59ce322cc198c037c514)] -> id: response-0]
+2023-12-18 21:12:475 INFO  SelectNationalityPage :40 - Clicking on continue button : [[ChromeDriver: chrome on windows (63460e9fb10d59ce322cc198c037c514)] -> xpath: //button[normalize-space()='Continue']]
+2023-12-18 21:12:505 INFO  ResultPage :33 - Clicking on radio button : [[ChromeDriver: chrome on windows (63460e9fb10d59ce322cc198c037c514)] -> xpath: //h2[normalize-space()='You need a visa to work in health and care']]
